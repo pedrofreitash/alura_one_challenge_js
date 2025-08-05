@@ -1,0 +1,3 @@
+# Ignora CSS e HTML para contagem de linguagem
+*.css linguist-vendored
+*.html linguist-vendored
